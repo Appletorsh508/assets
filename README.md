@@ -23,7 +23,7 @@ the projects have to be sound, with information available, and __non-minimal cir
 
 ### Assets App
 
-The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).0x4b0f1812e5df2a09796481ff14017e6005508003
 
 ### Quick starter
 
