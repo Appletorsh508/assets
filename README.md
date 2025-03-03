@@ -1,4 +1,4 @@
-# Trust Wallet Assets Info
+# Trust Wallet Assets Info0x4b0f1812e5df2a09796481ff14017e6005508003
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
